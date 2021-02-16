@@ -11,6 +11,8 @@
 ### Small/Mobile
 ![small-size](https://github.com/whenes/omnistack10-web/blob/main/src/assets/images/smallsize.png)
 
+![mobile-size](https://github.com/whenes/omnistack10-web/blob/main/src/assets/images/mobilesize.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
